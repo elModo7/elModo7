@@ -1,16 +1,33 @@
-## Hi there 👋
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=FullStack+Developer;Process+Automation;Networking+Enthusiast;Dev+Sec+Ops)](https://git.io/typing-svg)
 
-<!--
-**elModo7/elModo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Portfolio: https://elmodo7.github.io/
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TunnelManager](https://github-readme-stats.vercel.app/api/pin/?username=elModo7&repo=SSH_Tunnel_Manager&theme=nightowl)
+![WoLAPI](https://github-readme-stats.vercel.app/api/pin/?username=elModo7&repo=WakeOnLan-Web-API&theme=nightowl)
+
+### 📬 Contact
+<div>
+  <a href="https://www.linkedin.com/in/victor-smp/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://discord.com/invite/stu2vkJ">
+      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>&nbsp;
+  <a href="[https://discord.com/invite/stu2vkJ](https://t.me/victor_smp)">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+##
+### 📈 GitHub Stats
+
+[![Contributions](https://github-readme-stats.vercel.app/api?username=elModo7&show_icons=true&hide=issues&rank_icon=percentile&include_all_commits=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elModo7&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=elModo7&label=Profile%20views&color=0e75b6&style=flat" alt="elModo7" /> 
+</p>
