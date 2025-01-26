@@ -5,7 +5,7 @@
 ## 🚀 Featured Projects
 
 ![TunnelManager](https://github-readme-stats.vercel.app/api/pin/?username=elModo7&repo=SSH_Tunnel_Manager&theme=nightowl)
-![WoLAPI](https://github-readme-stats.vercel.app/api/pin/?username=elModo7&repo=WakeOnLan-Web-API&theme=nightowl)
+![WoLAPI](https://github-readme-stats.vercel.app/api/pin/?username=elModo7&repo=WakeOnLan-Web-API&theme=radical)
 
 ### 📬 Contact
 <div>
