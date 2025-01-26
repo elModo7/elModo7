@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=FullStack+Developer;Process+Automation;Networking+Enthusiast;Dev+Sec+Ops)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=FullStack+Developer;Process+Automation;Networking+Enthusiast;DevOps;Cybersecurity+Advocate+Reverse+Engineer)](https://git.io/typing-svg)
 
 ### 💻 Portfolio: https://elmodo7.github.io/
 
