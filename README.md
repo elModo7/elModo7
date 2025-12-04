@@ -31,3 +31,5 @@ I now work as a FullStack dev while I take on my studies, certificates and hobby
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=elModo7&label=Profile%20views&color=0e75b6&style=flat" alt="elModo7" /> 
 </p>
+
+[![elModo7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elModo7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
