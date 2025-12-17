@@ -8,7 +8,7 @@ I love architecting, I started my career studying for SysOps & Network administr
 
 Then I took a pure dev approach first focusing heavily on automating and then making my own specialized tools.
 
-I also took my Master's in Cybersecurity, mainly because I already had knowledge on that area and makes me take more transversal roles.
+I also took my Master's in Cybersecurity, mainly because I already had knowledge on that area and allows me to take more transversal roles.
 
 I now work as a FullStack dev while I take on my studies, certificates and hobby projects.
 
