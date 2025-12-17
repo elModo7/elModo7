@@ -4,11 +4,11 @@
 
 ### 💻 About me:
 
-I love architecting, I started my career studying for SysOps and Network administrator built my home lab using third party software.
+I love architecting, I started my career studying for SysOps & Network administrator role so I built my homelab using third party software.
 
 Then I took a pure dev approach first focusing heavily on automating and then making my own specialized tools.
 
-I also finished my Master's in Cybersecurity, a topic that involves every step of developing quality services and infrastructure.
+I also took my Master's in Cybersecurity, mainly because I already had knowledge on that area and makes me take more transversal roles.
 
 I now work as a FullStack dev while I take on my studies, certificates and hobby projects.
 
