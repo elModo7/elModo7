@@ -33,3 +33,5 @@ I now work as a FullStack dev while I take on my studies, certificates and hobby
 </p>
 
 [![elModo7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elModo7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+> Wielding Frida against the Ghidra — one hook per head
