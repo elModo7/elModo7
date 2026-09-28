@@ -4,13 +4,22 @@
 
 ### 💻 About me:
 
-I love architecting, I started my career studying for SysOps & Network administrator role so I built my homelab using third party software.
+I started my career on the infrastructure side of IT in 2012, studying systems administration and networking and experimenting with Linux on embedded ARM devices such as the ODROID XU4 and the Raspberry Pi 1B.
 
-Then I took a pure dev approach first focusing heavily on automating and then making my own specialized tools.
+I later moved into software engineering, working primarily on full-stack applications using C#/.NET Framework, Java and Spring Boot across desktop, web and embedded environments, including Windows CE and Android PDAs. Throughout that transition, I maintained a strong interest in how systems behave beyond the application layer.
 
-I also took my Master's in Cybersecurity, mainly because I already had knowledge on that area and allows me to take more transversal roles.
+In 2023, I completed a Master's degree in Cybersecurity, complementing my software engineering experience with a stronger foundation in infrastructure and application security, networking, operating systems, and standards and regulatory frameworks such as ISO 27001, ENS, GDPR and NIS2.
 
-I now work as a FullStack dev while I take on my studies, certificates and hobby projects.
+Over time, my interests have increasingly converged around distributed systems, DevOps, cloud-native infrastructure and platform engineering.
+
+Today, I work as a software engineer while studying Computer Engineering. I regularly work with AI-assisted development and agentic workflows, using them as tools to accelerate engineering while keeping architecture, technical decisions and validation driven by human reasoning.
+
+Outside of work, I build and experiment with infrastructure, networking, distributed systems and automation using technologies such as Linux, Docker, Kubernetes, Go and cloud-native tooling. I also enjoy working closer to the hardware, and lately I have been experimenting extensively with ESP32 microcontrollers, FreeRTOS, LVGL and LoRa.
+
+My background across software development, systems, networking and cybersecurity allows me to approach technical problems across multiple layers of the stack — from application code and APIs to operating systems, networks and infrastructure.
+
+I am particularly interested in Platform Engineering, DevOps/SRE, distributed systems, cloud infrastructure and security, with the long-term goal of designing reliable, observable and secure platforms that make software teams more productive.
+
 
 ### 📬 Contact
 
